@@ -19,7 +19,7 @@
             <nav class="nav-main">
                 <h1>CrowdFunding</h1>
                 <ul>
-                    <li><a href="#"> Sobre Nosotros</a></li>
+                    <li><a href="#">Sobre Nosotros</a></li>
 
                     <li><a href="#">Mi bosque Personal</a></li>
 
@@ -35,6 +35,11 @@
                 </div>
                 <div class="text-container">
                     <p class="text-section">Apoya a los proyectos de reforestacion de Bolivia</p>
+                </div>
+                <div class="boton-container">
+                    <a href="#" class="boton-donar">
+                        Donar
+                    </a>
                 </div>
             </div>
             <!-- Mision y arboles plantados -->
