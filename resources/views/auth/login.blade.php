@@ -107,8 +107,13 @@
       <script>
       // Initialize Firebase
       var config = {
-         // This is the variable you got from Firebase's Firebase SDK snippet. It includes values for apiKey, authDomain, projectId, etc.
-         
+          apiKey: "AIzaSyDPIqDN6cgKfD3nbuMkivoBUEQ0IFiFn3E",
+          authDomain: "laravel-auth-29f2b.firebaseapp.com",
+          projectId: "laravel-auth-29f2b",
+          storageBucket: "laravel-auth-29f2b.appspot.com",
+          messagingSenderId: "1001101738327",
+          appId: "1:1001101738327:web:547432f37345271dfdfe12"
+
       };
       firebase.initializeApp(config);
       var facebookProvider = new firebase.auth.FacebookAuthProvider();
