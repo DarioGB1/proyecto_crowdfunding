@@ -21,11 +21,12 @@
                 <ul>
                     <li><a href="#">Sobre Nosotros</a></li>
 
-                    <li><a href="#">Mi bosque Personal</a></li>
+                    <li><a href="mibosque">Mi bosque Personal</a></li>
 
                     <li ><a href="#">Donar</a></li>
 
                     <li><a href="#">Proyectos</a></li>
+
                 </ul>
             </nav>
             <!--Seccion de Bienvenida -->

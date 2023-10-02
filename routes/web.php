@@ -18,3 +18,6 @@ Route::get('/', function () {
 });
 
 
+Route::get('mibosque', function (){
+    return view('mibosque');
+});
