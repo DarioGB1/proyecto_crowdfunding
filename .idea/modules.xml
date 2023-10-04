@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/social_authentication.iml" filepath="$PROJECT_DIR$/.idea/social_authentication.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/example-app.iml" filepath="$PROJECT_DIR$/.idea/example-app.iml" />
+>>>>>>> e9b58980db0883f477167460ec07082b1d0fd5bb
     </modules>
   </component>
 </project>
