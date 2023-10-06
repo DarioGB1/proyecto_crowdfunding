@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sobre Nosotros</title>
 
-    <link rel="stylesheet" href="/public/css/contribuitors-views.css">
+    <link rel="stylesheet" href="/css/contribuitors-views.css">
 </head>
 <body>
+@include('layout.navbarProy')
+
 <div class="container">
     <div class="contribuidores" style="background-image: linear-gradient(to bottom, #1b7161, #1b7161);">
         <div class="container">
