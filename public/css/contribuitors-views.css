@@ -4,6 +4,17 @@ body {
     padding: 0;
 }
 
+
+.lideres,
+.desarrolladores {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+ main
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -11,10 +22,26 @@ body {
     gap: 20px;
 }
 
+ HEAD
 .card {
     min-height: 350px;
     border: 1px solid #ccc;
     border-radius: 5px;
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    gap: 20px;
+}
+
+.card {
+    background-color: white;
+    height: 500px;
+    width: 350px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+
     margin: 25px;
     padding: 15px;
     text-align: center;
@@ -24,6 +51,12 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+
+.card-body {
+    min-height: 150px;
+}
+
 
 .card img {
     width: 100%;
@@ -42,6 +75,7 @@ body {
     font-size: 1rem;
     margin-bottom: 15px;
 }
+
 
 .titulo {
     text-align: center;
