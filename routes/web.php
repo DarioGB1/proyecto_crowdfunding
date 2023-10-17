@@ -24,3 +24,7 @@ Route::get('/quienessomos', function () {
 Route::get('mibosque', function (){
     return view('mibosque');
 });
+
+Route::get('/creaunproyecto', function (){
+    return view('proyectista');
+});
